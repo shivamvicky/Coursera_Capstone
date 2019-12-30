@@ -1,0 +1,1 @@
+This folder contains the maps created for Week 5 of coursera capstone applied data science course.
